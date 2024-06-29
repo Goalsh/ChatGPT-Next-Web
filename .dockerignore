@@ -75,6 +75,7 @@ dist
 .fusebox/
 
 # DynamoDB Local files
+
 .dynamodb/
 
 # Temporary folders
